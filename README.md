@@ -1,6 +1,6 @@
-# Image Super Resolution 4x (NTIRE 2025)
+# Image Super Resolution 4x (Mini Project)
 
-This repository contains the code, models, and report for our project on **4x Image Super-Resolution**, submitted as part of the NTIRE 2025 Challenge. Our work focuses on enhancing low-resolution images using an ensemble of state-of-the-art super-resolution models.
+This repository contains the code, models, and report for our project on **4x Image Super-Resolution**, submitted as part of our mini project. Our work focuses on enhancing low-resolution images using an ensemble of state-of-the-art super-resolution models.
 
 ## Project Overview
 
