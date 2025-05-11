@@ -84,8 +84,8 @@ Super-resolution has critical applications in medical imaging, satellite photogr
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Barghav777/Image_super_resolution_4x_Mini_project.git
+   cd Image_super_resolution_4x_Mini_project
    ```
 2. Install the required packages (PyTorch, torchvision, etc.)
 3. Run the training notebooks as needed:
