@@ -21,7 +21,7 @@ Super-resolution has critical applications in medical imaging, satellite photogr
 │   ├── hat_model.pth          # Pre-trained HAT model
 │   ├── rcan_model.pth         # Pre-trained RCAN model
 │   ├── swinir_model.pth       # Pre-trained SwinIR model
-│   └── final_ensemble_model.pth # Final ensemble model
+│   └── Final_ensemble_model.pth # Final ensemble model
 ├── Other_models               # Models tried but not used in the final ensemble
 ├── Final_ensemble_train.ipynb  # Training notebook for ensemble
 ├── Final_test.ipynb           # Testing and evaluation notebook
